@@ -17,8 +17,7 @@ This is a basic HTML project that includes a user registration form and a struct
 ## 📸 Screenshot
 > 👉 Upload your screenshot at [https://imgbb.com](https://imgbb.com), then paste the link below:
 ![Screenshot](https://i.ibb.co/YOUR-SCREENSHOT-LINK/assignment-3.png)
->
-> Your Live Link. ex.("https://abid129456.github.io/assigment-3/")
+
 
 ## 📦 How to Run Locally
 
